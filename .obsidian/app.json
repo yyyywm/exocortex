@@ -1,0 +1,9 @@
+{
+  "alwaysUpdateLinks": true,
+  "newFileLocation": "folder",
+  "newFileFolderPath": "content/00-Inbox",
+  "attachmentFolderPath": "content/_assets",
+  "promptDelete": false,
+  "useMarkdownLinks": false,
+  "useWikiLinks": true
+}

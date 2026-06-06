@@ -1,0 +1,8 @@
+.DS_Store
+node_modules/
+public/
+.quartz-cache/
+.obsidian/workspace.json
+.obsidian/graph.json
+.obsidian/cache/
+sources/
